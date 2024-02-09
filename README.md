@@ -8,7 +8,7 @@
 </p>
 
 ## Alguns pontos necessários para rodar o projeto:
-Instale as dependencias via Composer
+Instale as dependencias via Composer <br/>
 Configure as veriáveis de ambiente
 
 
